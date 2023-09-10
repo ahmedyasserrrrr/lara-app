@@ -1,0 +1,1 @@
+@extends('./index.blade.php')
